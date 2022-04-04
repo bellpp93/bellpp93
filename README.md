@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=종인%20CodeWolrd★&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JongIn's%20CodeWolrd★&fontSize=70)
 
 <div align=center>
+
+  ## ☆ t e c h ☆
+  
+  [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/bellpp93/TODO-List)
+  [![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=flat-square&logo=HTML&logoColor=black)](github.com/bellpp93/TODO-List)
+  [![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat-square&logo=CSS&logoColor=black)](github.com/bellpp93/TODO-List)
