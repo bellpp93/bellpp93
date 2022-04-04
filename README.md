@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JongIn's%20CodeWolrd★&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ryle's%20CodeWolrd★&fontSize=70)
 
 <div align=center>
 
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white)](github.com/bellpp93/TODO-List)
   [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white)](github.com/bellpp93/TODO-List)
   [![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white)](github.com/bellpp93/TODO-List)
-  [![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=OracleDB&logoColor=white)](github.com/bellpp93/TODO-List)
+  [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)](github.com/bellpp93/TODO-List)
