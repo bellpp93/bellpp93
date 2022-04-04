@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   ## ☆ t e c h ☆
   
   [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/bellpp93/TODO-List)
-  [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white)](github.com/bellpp93/TODO-List)
-  [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white)](github.com/bellpp93/TODO-List)
-  [![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white)](github.com/bellpp93/TODO-List)
+  [![Html5](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white)](github.com/bellpp93/TODO-List)
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/bellpp93/TODO-List)
+  [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](github.com/bellpp93/TODO-List)
   [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)](github.com/bellpp93/TODO-List)
