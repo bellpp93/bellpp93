@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Ryle's%20CodeWolrd&fontSize=70)
 
-<div align=left>
+<div align=center>
 
 ### Hello👋
   My name is Jong In Yoon😄<br>
