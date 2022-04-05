@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ryle's%20CodeWolrd&fontSize=70)
 
+<div align=left>
+
 ### Hello👋 My name is Jong In Yoon😄
 
-<div align=center>
+<div align=left>
 
   ## ✨ T e c h ✨
   
@@ -26,13 +28,13 @@ Here are some ideas to get you started:
   [![Html5](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](github.com/bellpp93/TODO-List)
   [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/bellpp93/TODO-List)
 
-<div align=center>
+<div align=left>
   
   ## 🌱 T o d a y 🌱
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbellpp93&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div align=center>
+<div align=left>
   
   ## ⚡ S t a t s ⚡
   
