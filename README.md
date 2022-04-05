@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bellpp93/bellpp93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ryle's%20CodeWolrd&fontSize=70)
+
+### Hello👋 My name is Jong In Yoon😄
 
 <div align=center>
 
