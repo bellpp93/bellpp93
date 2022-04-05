@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   I'm from South Korea :)<br>
   Nice to meet you !
 
-<div align=left>
+<div align=center>
 
   ## ✨ T e c h
   
@@ -31,13 +31,13 @@ Here are some ideas to get you started:
   [![Html5](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](github.com/bellpp93/TODO-List)
   [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/bellpp93/TODO-List)
 
-<div align=left>
+<div align=center>
   
   ## 📫 T o d a y
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbellpp93&count_bg=%23E03636&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div align=left>
+<div align=center>
   
   ## 🌱 S t a t s
   
