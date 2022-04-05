@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ### Hello👋
   My name is Jong In Yoon😄
+  I'm from South Korea :)
+  Nice to meet you !
 
 <div align=left>
 
