@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-  ## ✨ Learning
+  ## ✨ L e a r n i n g
   
   [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](github.com/bellpp93/TODO-List)
   [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](github.com/bellpp93/TODO-List)
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-  ## 💬 U s e d   L a n g u a g e s
+  ## 🔭 U s e d L a n g u a g e s
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellpp93&layout=compact&theme=material-palenight)](https://github.com/bellpp93/github-readme-stats)
   
