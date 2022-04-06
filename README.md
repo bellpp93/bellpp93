@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-  ## 🔭 M o s t  U s e d
+  ## 🔭 U s e d P r o g r a m s
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellpp93&layout=compact&theme=material-palenight)](https://github.com/bellpp93/github-readme-stats)
   
