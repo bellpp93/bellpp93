@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/bellpp93/TODO-List)
   [![Html5](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](github.com/bellpp93/TODO-List)
   [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com/bellpp93/TODO-List)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](github.com/bellpp93/TODO-List)
   
 <div align=center>
   
