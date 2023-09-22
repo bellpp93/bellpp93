@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 <div align=center>
 
 ### Hello👋
-  My name is Jong In Yoon<br>
+  My name is JongIn Yoon<br>
   I'm from South Korea :)<br>
+  also I'm living in Japan from 2022 for work<br>
+  <br>
   Nice to meet you !
 
 <div align=center>
