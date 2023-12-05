@@ -43,12 +43,6 @@ Here are some ideas to get you started:
   
 <div align=center>
   
-  ## 🌱 S t a t s
-  
-  ![Ryle's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellpp93&show_icons=true&theme=material-palenight)
-  
-<div align=center>
-  
   ## 📫 T o d a y
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbellpp93&count_bg=%23E03636&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
